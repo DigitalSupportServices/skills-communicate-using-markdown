@@ -7,10 +7,12 @@
 
 ### Step 1
 
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
 ### Step 2
 
-
+var myVar = "Hello, world!";
 
 ### Step 3
 
