@@ -1,6 +1,6 @@
 # Design Skills for beginners
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 ## Trying out the various markdowns available
@@ -17,3 +17,5 @@
 
 
 ### Step 4
+
+<footer> Designed by Tausamoyo Bvuma</footer>
